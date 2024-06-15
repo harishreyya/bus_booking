@@ -10,7 +10,11 @@ The key features of application.
 - APIs for retrieving task statistics, such as getting details, creating details tasks
 
 ## Deployed link
-[link]()
+[link](https://deploy-backend-bus.onrender.com/users)
+note- U can check or test with this link as well in postman or browser 
+(https://deploy-backend-bus.onrender.com/users)
+(https://deploy-backend-bus.onrender.com/buses)
+(https://deploy-backend-bus.onrender.com/bookings)
 
 ## Installation or How to run the app
 I created cloud database using MongoDb Atlas. So, if you want to run our code then please read the instructions below :
